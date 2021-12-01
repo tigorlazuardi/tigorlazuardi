@@ -1,6 +1,6 @@
-### Hi.
+### Hi, I'm Tigor
 
-My name is Tigor. I am a web backend developer that uses REST or GRPC, or PubSub application to communicate between services. My main language is Golang, with secondary ones being TypeScript and Rust.
+I am a web backend developer that uses REST or GRPC, or PubSub application to communicate between services. My main language is Golang, with secondary ones being TypeScript and Rust.
 
 # Ongoing Projects
 
@@ -23,6 +23,7 @@ My name is Tigor. I am a web backend developer that uses REST or GRPC, or PubSub
 1. Smart Home project.
 2. OpenAPI style business.
 3. Modding a game.
+4. A Neovim plugin
 
 # Word of Wisdom
 
