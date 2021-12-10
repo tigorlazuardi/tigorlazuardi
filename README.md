@@ -4,10 +4,9 @@ I am a web backend developer that uses REST or GRPC, or PubSub application to co
 
 # 💼 Ongoing Projects
 
-1. GRPC Generating pipeline. The pipeline is special because it require validation testing both on the proto itself and the generated code to ensure the generated code can be use as expected (like no duplicate methods for example). The generated code will then pushed to another repository and it can be used as dependency for other projects.
-2. Trying to make golang database transaction abstraction layer between SQL and NoSQL, so the codebase can swap database willy-nilly without changing any of the logic business.
-3. Personal @Home website
-4. The rest are private office projects.
+1. Trying to make golang database transaction abstraction layer between SQL and NoSQL, so the codebase can swap database willy-nilly without changing any of the logic business.
+2. Personal @Home website
+3. The rest are private office projects.
 
 # 📖 Learning
 
