@@ -4,7 +4,7 @@ I am web backend developer. Go is my main language, followed by Typescript, Lua,
 
 # 💼 Ongoing Projects
 
-1. Tower-Go library. Error, Logging, and Notification Framework for Go.
+1. [Tower-Go](https://github.com/tigorlazuardi/tower) library. Error, Logging, and Notification Framework for Go.
 
 # 📖 Learning
 
